@@ -61,7 +61,7 @@ cantidadmanzana <- 0
 cantidadpera <- 0
 cantidadgarbanzo <- 0
 cantidadlenteja <- 0
-cantidadpalta <- 1000
+cantidadpalta <- 0
 metodoPago <- "Efectivo"
 credito <- sample(1:10,1)
 efectivo <- sample(1:4,1)
